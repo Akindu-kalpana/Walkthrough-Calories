@@ -1,4 +1,4 @@
-package com.example.calories
+package com.example.walkthroughcalories
 
 import android.graphics.drawable.Icon
 import android.os.Bundle
