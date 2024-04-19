@@ -1,4 +1,4 @@
-package com.example.walkthroughcalories.ui.theme
+package com.example.calories.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
